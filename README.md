@@ -122,7 +122,8 @@ Interested in building systems that are maintainable, scalable, and practical.
 
 Creating eFootball gaming content, memes, football edits, and livestreams.
 
-[Visit YouTube Channel →](https://www.youtube.com/@eFootballPlays7)
+[Visit YouTube Channel →](https://www.youtube.com/@eFootballPlays7) | 
+[Visit TikTok Page →](https://www.tiktok.com/@efootball.plays7)
 
 </td>
 </tr>
@@ -227,18 +228,5 @@ I'm open to collaboration, learning, and building things together.
 <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
-<br/><br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:111B32,100:080B16&height=120&section=footer" alt="Footer"/>
-
-<sub>
-
-`SYSTEM STATUS: ALWAYS LEARNING`
-
-**Thanks for visiting my corner of GitHub.**
-
-*Built with curiosity. Maintained with consistency.*
-
-</sub>
-
 </div>
