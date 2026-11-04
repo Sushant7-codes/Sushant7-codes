@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="eFootballPlays7 YouTube lower third">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#1a1b26"/><stop offset="1" stop-color="#24283b"/></linearGradient><linearGradient id="rd" x1="0" x2="1"><stop offset="0" stop-color="#ff3b3b"/><stop offset="1" stop-color="#ff7a59"/></linearGradient><clipPath id="tk"><rect x="30" y="108" width="940" height="28"/></clipPath></defs>
+<rect x="1" y="1" width="998" height="148" rx="18" fill="url(#bg)" stroke="#3b4261" stroke-width="2"/>
+<path d="M30,26 H190 L170,70 H30 Z" fill="url(#rd)"/>
+<circle cx="56" cy="48" r="7" fill="#fff"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="74" y="55" font-family="'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="20" font-weight="900" letter-spacing="3" fill="#fff">LIVE</text>
+<text x="212" y="52" font-family="'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="34" font-weight="900" fill="#e8ecff">eFootballPlays7</text>
+<text x="214" y="76" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#7aa2f7">eFOOTBALL CONTENT CREATOR  ·  NEPAL</text>
+<g><rect x="760" y="30" width="210" height="46" rx="23" fill="#ff3b3b"><animate attributeName="opacity" values="1;.82;1" dur="2s" repeatCount="indefinite"/></rect>
+<path d="M792,43 L792,63 L809,53 Z" fill="#fff"/><text x="822" y="59" font-family="'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="2" fill="#fff">WATCH NOW</text></g>
+<rect x="30" y="108" width="940" height="28" rx="14" fill="#12131c"/>
+<g clip-path="url(#tk)"><g><text y="127" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#a9b1d6" xml:space="preserve">FULL TIME  ·  tech XI locked in  ·  DRF in training  ·  ClientSpace in progress  ·  new uploads coming  ·  smash that subscribe  ·  FULL TIME  ·  tech XI locked in  ·  DRF in training  ·  ClientSpace in progress  ·  new uploads coming  ·  smash that subscribe  ·  FULL TIME  ·  tech XI locked in  ·  DRF in training  ·  ClientSpace in progress  ·  new uploads coming  ·  smash that subscribe  ·  <animateTransform attributeName="transform" type="translate" from="30 0" to="-1171 0" dur="22s" repeatCount="indefinite"/></text></g></g>
+</svg>
